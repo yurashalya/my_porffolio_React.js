@@ -18,6 +18,12 @@
 
  }
 
+ .projects-grid {
+  display: flex;
+  justify-content: space-around;
+
+ }
+
  .avatar-img {
   height: 250px;
   padding-top: 5em;
