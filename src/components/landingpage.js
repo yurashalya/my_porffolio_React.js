@@ -29,17 +29,17 @@ class Landing extends Component {
 					</a>
 
 					{/* Instagram */}
-					<a href="https://google.com" rel="noopener noreferrer" target="_blank">
+					<a href="https://www.instagram.com/shalya_yura/" rel="noopener noreferrer" target="_blank">
 						<i className="fa fa-instagram" aria-hidden="true"/>
 					</a>
 
 					{/* Github */}
-					<a href="https://google.com" rel="noopener noreferrer" target="_blank">
+					<a href="https://github.com/yurashalya" rel="noopener noreferrer" target="_blank">
 						<i className="fa fa-github-square" aria-hidden="true"/>
 					</a>
 
 					{/* YouTube */}
-					<a href="https://google.com" rel="noopener noreferrer" target="_blank">
+					<a href="https://www.youtube.com/channel/UCX45Fwod-xI9FXz1g3y51uQ?view_as=subscriber" rel="noopener noreferrer" target="_blank">
 						<i className="fa fa-youtube-square" aria-hidden="true"/>
 					</a>
 
